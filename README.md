@@ -4,4 +4,4 @@ To download. click the DOWNLOADS button in the top right corner, rename the unco
 
 LMT01 connections schema for Arduino platforms
 
-![connections schema](http://insta.dmitrii-levin.com/lmt001.png)
+![connections schema](https://raw.githubusercontent.com/dimonmontana/LMT01-sensor-library/master/schematic.png)
